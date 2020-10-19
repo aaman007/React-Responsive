@@ -38,7 +38,7 @@ export const signup = {
     lightText: false,
     lightTextDesc: false,
     topLine: 'Join our community',
-    heading: 'Join us in the easing way possible',
+    heading: 'Join us in the easiest way possible',
     description: 'Get started with our services and enjoy a wonderful journey with us',
     img: require('../../assets/images/svg-3.svg'),
     alt: 'DataMan',
